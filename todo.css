@@ -1,0 +1,34 @@
+/* .input-and-button{
+    display: flex;
+    flex-direction: row;
+}
+
+.input-and-button input{
+    flex: 1 0 auto;
+} */
+.custom-card {
+    width: 18rem;
+}
+
+#cards-wrapper {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.input-text {
+    border: none;
+    flex: 1 0 auto;
+}
+
+.done-button {
+    display: none;
+    background-color: white;
+    border: none;
+}
+
+.input-class {
+    display: flex;
+    flex-direction: row;
+    
+}
